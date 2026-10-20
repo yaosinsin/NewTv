@@ -1,5 +1,5 @@
 {
-  "spider": "https://raw.githubusercontent.com/yaosinsin/NewTv/main/combined_spider.jar;md5;9058a7cb95fce60ee374521e45a2acce",
+  "spider": "https://raw.githubusercontent.com/yaosinsin/NewTv/main/1009_.jar;md5;648653a1067c03abb0ef369a463d7e20",
   "lives": [
     {
       "name": "直播ipv6",
@@ -22,30 +22,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "J91",
-      "name": "🔞 91 | 珍惜",
-      "type": 3,
-      "api": "csp_J91",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "Cg51",
-      "name": "🔞 51吃瓜 | 图密√",
-      "type": 3,
-      "api": "csp_Cg51",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "HiPianZhiBo",
-      "name": "🔞 嗨片直播 | 视频",
-      "type": 3,
-      "api": "csp_HiPianZhiBo",
-      "searchable": 1,
-      "filterable": 1
-    },
     {
       "key": "美少女",
       "name": "🔞美少女",

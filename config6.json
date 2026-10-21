@@ -23,6 +23,13 @@
       "filterable": 0
     },
     {
+      "key": "红果短剧",
+      "name": "红果 • 短剧(本地py)",
+      "type": 3,
+      "api": "/storage/emulated/0/TVBoxOSC/本地仓/影视/py/红果短剧.py",
+      "genre": "shortdrama"
+    },
+    {
       "key": "豆瓣",
       "name": "豆瓣 • 首页",
       "type": 3,

@@ -23,6 +23,63 @@
    "filterable": 0
   },
   {
+   "key": "布布",
+   "name": "布布 • APP",
+   "type": 3,
+   "api": "csp_YunDuo",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "host": "https://323433ssdfd.top",
+    "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+    "aid": "com.web.player",
+    "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+    "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+    "sign": "ddtvf65f3a83d6d9ad6f"
+   }
+  },
+  {
+   "key": "剧圈99",
+   "name": "剧圈 • APP",
+   "type": 3,
+   "api": "csp_App99",
+   "ext": {
+    "host": "http://124.221.3.182:19987/app/bn",
+    "versionName": "1.2.0",
+    "name": "剧圈圈",
+    "package": "com.qingtangxiaozhuan.xyz",
+    "buildNumber": "2002",
+    "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+   }
+  },
+  {
+   "key": "天堂",
+   "name": "天堂 • APP",
+   "type": 3,
+   "api": "csp_AppDrama",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "appName": "电影天堂",
+    "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+    "dataKey": "D2KREWRIBVNAUJJYEDL4VFHOY2Q0PQ==",
+    "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+    "pkg": "com.dytiantang.one",
+    "host": "",
+    "site": "https://dyttandroid04-1372779881.cos.ap-shanghai.myqcloud.com/app_dyttandroid.txt",
+    "version": "3.0.0.7",
+    "decrypt": "0"
+   }
+  },
+  {
+   "key": "三六零",
+   "name": "三六零 • 视频",
+   "type": 3,
+   "api": "csp_SP360"
+  },
+  {
    "key": "七猫短剧",
    "name": "七猫 • 短剧",
    "type": 3,

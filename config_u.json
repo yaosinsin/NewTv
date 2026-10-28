@@ -1,17 +1,8 @@
 {
  "sites": [
   {
-   "key": "魔都资源",
-   "name": "★魔都资源(已验证)",
-   "type": 1,
-   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0
-  },
-  {
    "key": "布布",
-   "name": "布布 • APP",
+   "name": "布布 • APP(测试)",
    "type": 3,
    "api": "csp_YunDuo",
    "searchable": 1,
@@ -25,6 +16,15 @@
     "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
     "sign": "ddtvf65f3a83d6d9ad6f"
    }
+  },
+  {
+   "key": "魔都资源",
+   "name": "★魔都资源(已验证)",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
   }
  ],
  "lives": [
@@ -46,6 +46,6 @@
    "playerType": 1
   }
  ],
- "spider": "https://ghfast.top/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_v2.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
+ "spider": "https://ghfast.top/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper"
 }

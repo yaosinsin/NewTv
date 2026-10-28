@@ -1,0 +1,51 @@
+{
+ "sites": [
+  {
+   "key": "魔都资源",
+   "name": "★魔都资源(已验证)",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+  {
+   "key": "布布",
+   "name": "布布 • APP",
+   "type": 3,
+   "api": "csp_YunDuo",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "host": "https://323433ssdfd.top",
+    "finger": "WF-2c064bc5b3400788f31b848849bc3a60f835423ba2dfe69d7ea93974c216e4f2",
+    "aid": "com.web.player",
+    "sk": "WEB-50a8e9c84a1dc05669a692ded99a2dac46527229e607a7be15db88dbc59059d1",
+    "client": "8f3d2a1c7b6e5d4c9a0b1f2e3d4c5b6a",
+    "sign": "ddtvf65f3a83d6d9ad6f"
+   }
+  }
+ ],
+ "lives": [
+  {
+   "name": "平台直播",
+   "type": 0,
+   "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+   "playerType": 1
+  },
+  {
+   "name": "Guovin",
+   "type": 0,
+   "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+  },
+  {
+   "name": "港澳台",
+   "type": 0,
+   "url": "http://rihou.cc:567/gggg.nzk",
+   "playerType": 1
+  }
+ ],
+ "spider": "https://ghfast.top/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;78b11bf2f55b564087aefaa3dac7529e",
+ "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper"
+}

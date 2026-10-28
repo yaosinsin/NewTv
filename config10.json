@@ -1,5 +1,5 @@
 {
- "spider": "https://ghfast.top/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;e9f5d2c1afe1bfe2cce0d9e080676849",
+ "spider": "https://ghfast.top/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;1fa1a378f385aef111a51df6b293bdb6",
  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",

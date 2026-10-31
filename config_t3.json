@@ -1,0 +1,38 @@
+{
+ "sites": [
+  {
+   "key": "魔都资源",
+   "name": "魔都(分类实验)",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "categories": [
+    "里番动漫",
+    "伦理片"
+   ]
+  }
+ ],
+ "lives": [
+  {
+   "name": "平台直播",
+   "type": 0,
+   "url": "http://47.120.41.246:8025/vip/jar/zb.php",
+   "playerType": 1
+  },
+  {
+   "name": "Guovin",
+   "type": 0,
+   "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+  },
+  {
+   "name": "港澳台",
+   "type": 0,
+   "url": "http://rihou.cc:567/gggg.nzk",
+   "playerType": 1
+  }
+ ],
+ "spider": "https://ghfast.top/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
+ "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper"
+}

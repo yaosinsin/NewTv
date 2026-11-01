@@ -132,24 +132,6 @@
    "_src": "feimao"
   },
   {
-   "key": "蔬菜",
-   "name": "🫛┃蔬菜┃APP",
-   "type": 3,
-   "api": "csp_AppGet",
-   "ext": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt|88689667dce61725",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
-   "_src": "feimao"
-  },
-  {
-   "key": "csp_Jpys",
-   "name": "🥇️┃金牌┃影视",
-   "type": 3,
-   "api": "csp_Jpys",
-   "ext": "https://y2s52n7.com",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
-   "_src": "feimao"
-  },
-  {
    "key": "荐片",
    "name": "🎬┃荐片┃影视",
    "api": "csp_Jianpian",
@@ -175,14 +157,6 @@
    "type": 3,
    "api": "csp_Gz360",
    "playerType": 2,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
-   "_src": "feimao"
-  },
-  {
-   "key": "csp_SP360",
-   "name": "📺┃360┃官源",
-   "type": 3,
-   "api": "csp_SP360",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
    "_src": "feimao"
   },
@@ -886,44 +860,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_02.jar",
-   "_src": "xiaohezi"
-  },
-  {
-   "key": "云播",
-   "name": "💢云播",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "影片类型": "分类：&&主演",
-    "导演": "导演：</span>&&</p>",
-    "主演": "主演：</span>&&</p>",
-    "简介": "class=\"sketch content\">&&</span>",
-    "数组": "myui-vodlist__thumb&&</a>",
-    "标题": "title=\"&&\"",
-    "副标题": "pic-tag pic-tag-top\">&&</span>",
-    "图片": "data-original=\"&&\"",
-    "链接": "href=\"&&\"",
-    "搜索模式": "1",
-    "搜索url": "http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500",
-    "搜索二次截取": "\"list\":[&&]",
-    "搜索数组": "{&&}",
-    "搜索标题": "\"name\":\"&&\"",
-    "搜索图片": "\"pic\":\"&&\"",
-    "搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html",
-    "嗅探词": ".m3u8#mp4",
-    "线路数组": "</a><h3&&/h3>",
-    "线路标题": "title\">&&<",
-    "播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>",
-    "播放标题": ">&&<",
-    "播放列表": "<a&&/a>",
-    "分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a",
-    "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
-   },
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_02.jar",
    "_src": "xiaohezi"
   },
@@ -1723,17 +1659,6 @@
     "擦边短剧",
     "AI漫剧"
    ]
-  },
-  {
-   "key": "还行",
-   "name": "还行",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_10.jar",
-   "type": 3,
-   "api": "csp_AppYs",
-   "searchable": 1,
-   "quickSearch": 1,
-   "ext": "http://m51.gotto.top/api.php/v1.vod",
-   "_src": "xiaoma"
   },
   {
    "key": "Bili",

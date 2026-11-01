@@ -152,15 +152,6 @@
    "_src": "feimao"
   },
   {
-   "key": "csp_Gz360",
-   "name": "🍉┃瓜子┃影视",
-   "type": 3,
-   "api": "csp_Gz360",
-   "playerType": 2,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
-   "_src": "feimao"
-  },
-  {
    "key": "csp_Bili",
    "name": "🅱┃️哔哩┃合集",
    "type": 3,

@@ -219,6 +219,15 @@
    "quickSearch": 1,
    "ext": "http://m51.gotto.top/api.php/v1.vod",
    "_src": "xiaoma"
+  },
+  {
+   "key": "ad_15_csp_Gz360",
+   "name": "🍉┃瓜子┃影视",
+   "type": 3,
+   "api": "csp_Gz360",
+   "playerType": 2,
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "_src": "feimao"
   }
  ],
  "lives": [

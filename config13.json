@@ -326,12 +326,6 @@
    }
   },
   {
-   "key": "韩圈",
-   "name": "韩圈 • APP",
-   "type": 3,
-   "api": "csp_Hxq"
-  },
-  {
    "key": "剧圈99",
    "name": "剧圈 • APP",
    "type": 3,
@@ -420,81 +414,6 @@
    }
   },
   {
-   "key": "蓝鹰",
-   "name": "蓝鹰 • APP",
-   "type": 3,
-   "api": "csp_AppQi",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": {
-    "url": "http://103.217.190.91:5566",
-    "dataKey": "hagYExMdMkeWfemK",
-    "dataIv": "hagYExMdMkeWfemK",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0"
-   }
-  },
-  {
-   "key": "蓝鸟",
-   "name": "蓝鸟 • APP",
-   "type": 3,
-   "api": "csp_AppQi",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
-    "dataKey": "oW5UxZ5kWVr1DI69",
-    "dataIv": "oW5UxZ5kWVr1DI69",
-    "init": "initV122",
-    "ua": "okhttp/3.10.0"
-   }
-  },
-  {
-   "key": "魔方",
-   "name": "魔方 • APP",
-   "type": 3,
-   "api": "csp_AppGet",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": {
-    "url": "https://www.douy32mf.top",
-    "dataKey": "1234567887654321",
-    "dataIv": "1234567887654321"
-   }
-  },
-  {
-   "key": "王子",
-   "name": "王子 • APP",
-   "type": 3,
-   "api": "csp_AppGet",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": {
-    "url": "https://app.95112475.xyz",
-    "dataKey": "5a9w6x58dsq6z3a6",
-    "dataIv": "5a9w6x58dsq6z3a6"
-   }
-  },
-  {
-   "key": "茉莉",
-   "name": "茉莉 • APP",
-   "type": 3,
-   "api": "csp_AppGet",
-   "searchable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
-    "dataKey": "88689667dce61725",
-    "dataIv": "88689667dce61725"
-   }
-  },
-  {
-   "key": "三六零",
-   "name": "三六零 • 视频",
-   "type": 3,
-   "api": "csp_SP360"
-  },
-  {
    "key": "七猫短剧",
    "name": "七猫 • 短剧",
    "type": 3,
@@ -530,30 +449,10 @@
    "genre": "shortdrama"
   },
   {
-   "key": "果果短剧",
-   "name": "果果 • 短剧",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
-    "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
-   },
-   "genre": "shortdrama"
-  },
-  {
    "key": "独播影视",
    "name": "独播 • 影视",
    "type": 3,
    "api": "csp_Duboku"
-  },
-  {
-   "key": "金牌影视",
-   "name": "金牌 • 影视",
-   "type": 3,
-   "api": "csp_Jpys",
-   "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
   },
   {
    "key": "骚火影视",
@@ -577,19 +476,6 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
-  },
-  {
-   "key": "面包影视",
-   "name": "面包 • 影视",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-    "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
-    "简介": "简介：&&"
-   }
   },
   {
    "key": "剧圈影视",
@@ -747,25 +633,10 @@
    "hide": 1
   },
   {
-   "key": "瓜子影视",
-   "name": "🍁┃瓜子┃影视",
-   "type": 3,
-   "api": "csp_Gz360"
-  },
-  {
    "key": "荐片",
    "name": "🍁┃荐片┃磁力",
    "api": "csp_JianPian",
    "type": 3
-  },
-  {
-   "key": "世界听书",
-   "name": "🎵┃世界┃听书",
-   "type": 3,
-   "api": "csp_TingShijie",
-   "style": {
-    "type": "list"
-   }
   },
   {
    "key": "push_agent",

@@ -160,10 +160,7 @@
    "api": "csp_AppYQK",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 0,
-   "_dup": [
-    "config15.json:👀┃一起┃APP"
-   ]
+   "filterable": 0
   },
   {
    "key": "咕噜",
@@ -172,10 +169,7 @@
    "api": "csp_Gulu",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1,
-   "_dup": [
-    "config15.json:🕊┃︎咕噜┃APP"
-   ]
+   "filterable": 1
   },
   {
    "key": "布布",
@@ -344,10 +338,7 @@
    "name": "骚火 • 影视",
    "type": 3,
    "api": "csp_SaoHuo",
-   "ext": "https://shdy5.us",
-   "_dup": [
-    "config15.json:🔥┃火火┃影视"
-   ]
+   "ext": "https://shdy5.us"
   },
   {
    "key": "枫叶影视",

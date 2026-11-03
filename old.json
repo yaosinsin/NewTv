@@ -2026,20 +2026,14 @@
  ],
  "lives": [
   {
+   "name": "整合直播",
+   "type": 0,
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/live.txt"
+  },
+  {
    "name": "平台直播",
    "type": 0,
    "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-   "playerType": 1
-  },
-  {
-   "name": "Guovin",
-   "type": 0,
-   "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
-  },
-  {
-   "name": "港澳台",
-   "type": 0,
-   "url": "http://rihou.cc:567/gggg.nzk",
    "playerType": 1
   }
  ],

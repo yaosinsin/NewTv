@@ -2,14 +2,22 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "闪影",
-   "name": "闪影 • APP",
+   "key": "玩偶",
+   "name": "玩偶 • 4K",
    "type": 3,
-   "api": "csp_AppYsV2",
+   "api": "csp_Wogg",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod",
+   "changeable": 1,
+   "ext": {
+    "site": [
+     "https://www.wogg.net",
+     "https://wogg.xxooo.cf",
+     "https://woggpan.xxooo.cf"
+    ]
+   },
+   "timeout": 60,
    "_src": "fm3rd"
   }
  ],

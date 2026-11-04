@@ -341,7 +341,7 @@
    "name": "剧圈 • 影视",
    "type": 3,
    "api": "csp_XYQHiker",
-   "ext": "./XYQHiker/剧圈影视.json"
+   "ext": "http://fm.litterfishs.kdns.fr/XYQHiker/%E5%89%A7%E5%9C%88%E5%BD%B1%E8%A7%86.json"
   },
   {
    "key": "1905",
@@ -624,15 +624,6 @@
     "type": "rect",
     "ratio": 1.333
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
-   "_src": "feimao"
-  },
-  {
-   "key": "米搜",
-   "name": "🌖┃米搜┃网盘",
-   "type": 3,
-   "api": "csp_MiSou",
-   "ext": "http://127.0.0.1:9978/file/fatcat/kk.txt",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
    "_src": "feimao"
   },

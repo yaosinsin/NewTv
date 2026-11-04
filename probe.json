@@ -2,16 +2,16 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "王子",
-   "name": "王子 • APP",
+   "key": "茉莉",
+   "name": "茉莉 • APP",
    "type": 3,
    "api": "csp_AppGet",
    "searchable": 1,
    "changeable": 1,
    "ext": {
-    "url": "https://app.95112475.xyz",
-    "dataKey": "5a9w6x58dsq6z3a6",
-    "dataIv": "5a9w6x58dsq6z3a6"
+    "site": "https://gitee.com/wmmoliill/wimg/raw/master/img/bk/9.txt",
+    "dataKey": "88689667dce61725",
+    "dataIv": "88689667dce61725"
    },
    "_src": "fm3rd"
   }

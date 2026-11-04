@@ -2,11 +2,23 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "金牌影视",
-   "name": "金牌 • 影视",
+   "key": "欧哥",
+   "name": "欧哥 • 4K",
    "type": 3,
-   "api": "csp_Jpys",
-   "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn",
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": [
+     "https://woog.nxog.eu.org",
+     "https://woog.nxog.fun",
+     "https://woog.nxog.eu.org",
+     "https://woog.430520.xyz"
+    ]
+   },
+   "timeout": 60,
    "_src": "fm3rd"
   }
  ],

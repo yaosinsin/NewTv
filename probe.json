@@ -2,11 +2,11 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "小镇影视",
-   "name": "小镇 • 影视",
+   "key": "面包影视",
+   "name": "面包 • 影视",
    "type": 3,
    "api": "csp_XBPQ",
-   "ext": "http://fm.litterfishs.kdns.fr/XBPQ/%E5%B0%8F%E9%95%87%E5%BD%B1%E8%A7%86.json",
+   "ext": "http://fm.litterfishs.kdns.fr/XBPQ/%E9%9D%A2%E5%8C%85%E5%BD%B1%E8%A7%86.json",
    "_src": "fm3rd"
   }
  ],

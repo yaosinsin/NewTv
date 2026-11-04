@@ -1,0 +1,16 @@
+{
+ "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
+ "sites": [
+  {
+   "key": "三秋影视",
+   "name": "三秋 • APP",
+   "type": 3,
+   "api": "csp_App3Q",
+   "_src": "fm3rd"
+  }
+ ],
+ "lives": [],
+ "parses": [],
+ "flags": [],
+ "ads": []
+}

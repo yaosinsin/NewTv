@@ -2,23 +2,17 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "欧哥",
-   "name": "欧哥 • 4K",
+   "key": "王子",
+   "name": "王子 • APP",
    "type": 3,
-   "api": "csp_PanWebShare",
+   "api": "csp_AppGet",
    "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
    "changeable": 1,
    "ext": {
-    "site": [
-     "https://woog.nxog.eu.org",
-     "https://woog.nxog.fun",
-     "https://woog.nxog.eu.org",
-     "https://woog.430520.xyz"
-    ]
+    "url": "https://app.95112475.xyz",
+    "dataKey": "5a9w6x58dsq6z3a6",
+    "dataIv": "5a9w6x58dsq6z3a6"
    },
-   "timeout": 60,
    "_src": "fm3rd"
   }
  ],

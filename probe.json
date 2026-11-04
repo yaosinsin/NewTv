@@ -2,20 +2,19 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "欧哥",
-   "name": "欧哥 • 4K",
+   "key": "玩偶",
+   "name": "玩偶 • 4K",
    "type": 3,
-   "api": "csp_PanWebShare",
+   "api": "csp_Wogg",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
    "changeable": 1,
    "ext": {
     "site": [
-     "https://woog.nxog.eu.org",
-     "https://woog.nxog.fun",
-     "https://woog.nxog.eu.org",
-     "https://woog.430520.xyz"
+     "https://www.wogg.net",
+     "https://wogg.xxooo.cf",
+     "https://woggpan.xxooo.cf"
     ]
    },
    "timeout": 60,

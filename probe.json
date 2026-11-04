@@ -2,14 +2,14 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "迅雷吧",
-   "name": "迅雷吧 • 磁力",
+   "key": "New6v",
+   "name": "New6V • 磁力",
    "type": 3,
-   "api": "csp_Xunlei8",
+   "api": "csp_New6v",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://xunlei8.me",
+   "ext": "https://www.xb6v.com",
    "_src": "fm3rd"
   }
  ],

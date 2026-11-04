@@ -2,14 +2,23 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "厂长影视",
-   "name": "厂长 • 影视",
+   "key": "二小",
+   "name": "二小 • 4K",
    "type": 3,
-   "api": "csp_Czsapp",
+   "api": "csp_PanWebShare",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://cz01.vip",
+   "changeable": 1,
+   "ext": {
+    "site": [
+     "https://2xiaopan.fun ",
+     "https://www.erxiaozhan.top",
+     "https://www.2xiaozhan.top",
+     "https://wexwp.cc"
+    ]
+   },
+   "timeout": 60,
    "_src": "fm3rd"
   }
  ],

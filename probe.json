@@ -2,17 +2,23 @@
  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
  "sites": [
   {
-   "key": "漫国动漫",
-   "name": "漫国 • 动漫",
+   "key": "二小",
+   "name": "二小 • 4K",
    "type": 3,
+   "api": "csp_PanWebShare",
    "searchable": 1,
-   "api": "csp_AppSy",
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
    "ext": {
-    "site": "https://dm-1255775577.cos.ap-guangzhou.myqcloud.com/dmg/api.txt",
-    "siteKey": "rectangleadsadxa",
-    "listKey": "aassddwwxxllsx1x",
-    "parsesKey": "aassddwwxxllsx1x"
+    "site": [
+     "https://2xiaopan.fun ",
+     "https://www.erxiaozhan.top",
+     "https://www.2xiaozhan.top",
+     "https://wexwp.cc"
+    ]
    },
+   "timeout": 60,
    "_src": "fm3rd"
   }
  ],

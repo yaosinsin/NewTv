@@ -49,158 +49,37 @@
    ]
   },
   {
-   "key": "阿里云盘",
-   "name": "阿里 • 云盘",
+   "key": "爱盼",
+   "name": "爱盼 • 4K",
    "type": 3,
-   "api": "csp_PanAli",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "夸克网盘",
-   "name": "夸克 • 网盘",
-   "type": 3,
-   "api": "csp_PanQuark",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "UC网盘",
-   "name": "UC • 网盘",
-   "type": 3,
-   "api": "csp_PanUC",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "百度网盘",
-   "name": "百度 • 网盘",
-   "type": 3,
-   "api": "csp_PanBaidu",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "迅雷云盘",
-   "name": "迅雷 • 云盘",
-   "type": 3,
-   "api": "csp_PanXunlei",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "光鸭云盘",
-   "name": "光鸭 • 云盘",
-   "type": 3,
-   "api": "csp_PanGuangya",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "天翼云盘",
-   "name": "天翼 • 云盘",
-   "type": 3,
-   "api": "csp_PanTianyi",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "123云盘",
-   "name": "123 • 云盘",
-   "type": 3,
-   "api": "csp_Pan123",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "觅盘",
-   "name": "觅盘 • 搜索",
-   "type": 3,
-   "api": "csp_MiPan",
+   "api": "csp_AiPan",
    "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
+   "quickSearch": 1,
+   "filterable": 1,
    "timeout": 60,
    "_src": "cand",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
-   "key": "盘搜",
-   "name": "盘搜 • 搜索",
+   "key": "卡卡",
+   "name": "卡卡 • 4K",
    "type": 3,
-   "api": "csp_PanSou",
+   "api": "csp_KKPan",
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 0,
+   "style": {
+    "type": "list"
+   },
    "timeout": 60,
    "_src": "cand",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
-   "key": "酷乐",
-   "name": "酷乐 • 搜索",
+   "key": "稀饭",
+   "name": "稀饭 • 动漫",
    "type": 3,
-   "api": "csp_KuLe",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "timeout": 60,
+   "api": "csp_AnimeXifan",
    "_src": "cand",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   }

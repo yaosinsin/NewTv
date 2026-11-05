@@ -2826,6 +2826,56 @@
    "filterable": 0,
    "_src": "src15_xalan",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+  },
+  {
+   "key": "看看影视",
+   "name": "看看影视",
+   "type": 3,
+   "api": "csp_WebIV",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "大米星球",
+   "name": "大米星球",
+   "type": 3,
+   "api": "csp_AppDaMi",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "达达龟",
+   "name": "达达龟",
+   "type": 3,
+   "api": "csp_Dadag",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "小丑",
+   "name": "小丑 • 4K",
+   "type": 3,
+   "api": "csp_4KZhinan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "site": [
+     "https://4kxc.com"
+    ]
+   },
+   "timeout": 60,
+   "_src": "xiaosa",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   }
  ],
  "lives": [

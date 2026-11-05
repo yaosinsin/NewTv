@@ -50,7 +50,7 @@
   },
   {
    "key": "zzz_probe",
-   "name": "ZZZ配置探针ZZZ",
+   "name": "ZZZ探针2ZZZ",
    "type": 1,
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
    "searchable": 1,
@@ -94,34 +94,6 @@
     "足球",
     "AI漫剧"
    ]
-  },
-  {
-   "key": "瓜子体育",
-   "name": "瓜子 • 体育",
-   "type": 3,
-   "api": "csp_SportsGuazi",
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list"
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "咖啡体育",
-   "name": "咖啡 • 体育",
-   "type": 3,
-   "api": "csp_SportsKafei",
-   "searchable": 0,
-   "quickSearch": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list"
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
    "key": "球通体育",
@@ -170,6 +142,35 @@
    "name": "听友 • 听书",
    "type": 3,
    "api": "csp_TingTingyou",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "堇夏听书",
+   "name": "堇夏 • 听书",
+   "type": 3,
+   "api": "csp_TingJinxia",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": "https://m.ting15.com",
+   "style": {
+    "type": "list"
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "博看听书",
+   "name": "博看 • 听书",
+   "type": 3,
+   "api": "csp_TingBokan",
    "searchable": 1,
    "quickSearch": 0,
    "changeable": 0,

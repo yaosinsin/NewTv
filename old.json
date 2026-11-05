@@ -2571,6 +2571,261 @@
    ],
    "_src2": "pizazz",
    "_src": "src15"
+  },
+  {
+   "key": "视频库",
+   "name": "视频库",
+   "type": 3,
+   "api": "csp_WebVidHub",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://vidhub1.cc",
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "暮暮动漫",
+   "name": "暮暮动漫",
+   "type": 3,
+   "api": "csp_WebMuTeFun",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 0,
+   "ext": "https://www.mutean.com",
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "New6v",
+   "name": "磁力｜New6V",
+   "type": 3,
+   "api": "csp_New6v",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://www.xb6v.com",
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "新6V",
+   "name": "🧲新6V┃磁力",
+   "type": 3,
+   "api": "csp_SixVGuard",
+   "timeout": 10,
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 0,
+   "ext": "https://www.xb6v.com/",
+   "_src": "src15_xalan",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+  },
+  {
+   "key": "南瓜影视",
+   "name": "南瓜影视",
+   "type": 3,
+   "api": "csp_WexNgys",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "可可影视",
+   "name": "可可影视",
+   "type": 3,
+   "api": "csp_Keke",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "全网影视",
+   "name": "全网影视",
+   "type": 3,
+   "api": "csp_Quanwk",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "最新影视",
+   "name": "最新影视",
+   "type": 3,
+   "api": "csp_Zx1080",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "桃子影视",
+   "name": "桃子影视",
+   "type": 3,
+   "api": "csp_Taozi",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "FreeOK",
+   "name": "FreeOK",
+   "type": 3,
+   "api": "csp_FreeOK",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "啾啾影视",
+   "name": "啾啾影视",
+   "type": 3,
+   "api": "csp_Wexjiohub",
+   "searchable": 1,
+   "changeable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "星辰影视",
+   "name": "星辰影视",
+   "type": 3,
+   "api": "csp_WexXingchen",
+   "searchable": 1,
+   "changeable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "农民影视",
+   "name": "农民影视",
+   "type": 3,
+   "api": "csp_WexNmys",
+   "searchable": 1,
+   "changeable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "立播影视",
+   "name": "立播影视",
+   "type": 3,
+   "api": "csp_Wexlibhd",
+   "searchable": 1,
+   "changeable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "纯享影视",
+   "name": "纯享影视",
+   "type": 3,
+   "api": "csp_WexF4kvm",
+   "searchable": 1,
+   "changeable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "两个磁力",
+   "name": "两个磁力",
+   "type": 3,
+   "api": "csp_Wexbttwo",
+   "searchable": 1,
+   "changeable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "在线之家",
+   "name": "在线之家",
+   "type": 3,
+   "api": "csp_Wexzxzj",
+   "searchable": 1,
+   "changeable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "机器人弹幕",
+   "name": "弹幕｜机器人",
+   "type": 3,
+   "api": "csp_Ikanbot",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "danmu": true
+   },
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar",
+   "_src": "src15_pizazz"
+  },
+  {
+   "key": "SeedHub",
+   "name": "磁力｜SeedHub",
+   "type": 3,
+   "api": "csp_SeedHub",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "Mp4电影",
+   "name": "磁力｜Mp4电影",
+   "type": 3,
+   "api": "csp_Mp4Mov",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "酷吧电影",
+   "name": "磁力｜酷吧电影",
+   "type": 3,
+   "api": "csp_KubaCL",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "美剧天堂",
+   "name": "磁力｜美剧天堂",
+   "type": 3,
+   "api": "csp_MeijuTT",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "src15_pizazz",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+  },
+  {
+   "key": "豆",
+   "name": "🎁┃豆瓣┃影视",
+   "type": 3,
+   "api": "csp_DouDouGuard",
+   "indexs": 1,
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 0,
+   "_src": "src15_xalan",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
   }
  ],
  "lives": [

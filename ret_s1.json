@@ -50,7 +50,7 @@
   },
   {
    "key": "zzz_probe",
-   "name": "ZZZ配置探针ZZZ",
+   "name": "ZZZ探针1ZZZ",
    "type": 1,
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
    "searchable": 1,
@@ -111,21 +111,6 @@
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
-   "key": "天翼云盘",
-   "name": "天翼 • 云盘",
-   "type": 3,
-   "api": "csp_PanTianyi",
-   "searchable": 0,
-   "filterable": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list",
-    "ratio": 1.433
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
    "key": "百酷",
    "name": "百酷 • 搜索",
    "type": 3,
@@ -150,10 +135,10 @@
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
-   "key": "88看球",
-   "name": "88 • 看球",
+   "key": "飞球体育",
+   "name": "飞球 • 体育",
    "type": 3,
-   "api": "csp_Sports88",
+   "api": "csp_SportsFeiqiu",
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 0,
@@ -164,10 +149,24 @@
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
-   "key": "飞球体育",
-   "name": "飞球 • 体育",
+   "key": "瓜子体育",
+   "name": "瓜子 • 体育",
    "type": 3,
-   "api": "csp_SportsFeiqiu",
+   "api": "csp_SportsGuazi",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "咖啡体育",
+   "name": "咖啡 • 体育",
+   "type": 3,
+   "api": "csp_SportsKafei",
    "searchable": 0,
    "quickSearch": 0,
    "changeable": 0,

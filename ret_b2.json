@@ -49,6 +49,56 @@
    ]
   },
   {
+   "key": "蜡笔",
+   "name": "蜡笔 • 4K",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": [
+     "https://www.fmcf.fun",
+     "https://www.mmpanpan.site",
+     "http://tvpanpan.site",
+     "http://www.tvpanpan.site"
+    ]
+   },
+   "timeout": 60,
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "搬运",
+   "name": "搬运 • 4K",
+   "type": 3,
+   "api": "csp_BanYunDao",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "指南",
+   "name": "指南 • 4K",
+   "type": 3,
+   "api": "csp_4KZhinan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "site": [
+     "https://4kzn.cc"
+    ]
+   },
+   "timeout": 60,
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
    "key": "茉莉",
    "name": "茉莉 • 4K",
    "type": 3,
@@ -63,111 +113,6 @@
     ]
    },
    "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "爱盼",
-   "name": "爱盼 • 4K",
-   "type": 3,
-   "api": "csp_AiPan",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "卡卡",
-   "name": "卡卡 • 4K",
-   "type": 3,
-   "api": "csp_KKPan",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "style": {
-    "type": "list"
-   },
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "果果短剧",
-   "name": "果果 • 短剧",
-   "type": 3,
-   "api": "csp_XBPQ",
-   "ext": {
-    "请求头": "User-Agent$MOBILE_UA",
-    "编码": "UTF-8",
-    "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
-    "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
-   },
-   "genre": "shortdrama",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "旺旺影视",
-   "name": "旺旺 • 影视",
-   "type": 3,
-   "api": "csp_Wwys",
-   "ext": "https://vip.wwgz.cn:5200",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "瓜子影视",
-   "name": "瓜子 • 影视",
-   "type": 3,
-   "api": "csp_Gz360",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "稀饭",
-   "name": "稀饭 • 动漫",
-   "type": 3,
-   "api": "csp_AnimeXifan",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "吉里动漫",
-   "name": "吉里 • 动漫",
-   "type": 3,
-   "api": "csp_AnimeGiri",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "花子动漫",
-   "name": "花子 • 动漫",
-   "type": 3,
-   "api": "csp_AnimeHuazi",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "美剧迷",
-   "name": "美剧迷 • 磁力",
-   "type": 3,
-   "api": "csp_MeijuMi",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "电影港",
-   "name": "电影港 • 磁力",
-   "type": 3,
-   "api": "csp_DianYingG",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
    "_src": "cand",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   }

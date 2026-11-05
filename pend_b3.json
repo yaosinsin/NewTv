@@ -96,18 +96,6 @@
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
-   "key": "移动",
-   "name": "移动 • 4K",
-   "type": 3,
-   "api": "csp_Yidong4K",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
    "key": "即刻",
    "name": "即刻 • 4K",
    "type": 3,
@@ -149,14 +137,6 @@
     "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
    },
    "genre": "shortdrama",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "飞娱影视",
-   "name": "飞娱 • 影视",
-   "type": 3,
-   "api": "csp_Feiyu",
    "_src": "cand",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },

@@ -49,157 +49,6 @@
    ]
   },
   {
-   "key": "立播",
-   "name": "🌟立播┃秒播",
-   "type": 3,
-   "api": "csp_LibvioGuard",
-   "timeout": 10,
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "ext": {
-    "Cloud-drive": "tvfan/Cloud-drive.txt",
-    "from": "4k|auto"
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
-  },
-  {
-   "key": "厂长",
-   "name": "📔厂长┃秒播",
-   "type": 3,
-   "api": "csp_NewCzGuard",
-   "timeout": 10,
-   "playerType": 2,
-   "searchable": 1,
-   "quickSearch": 1,
-   "changeable": 1,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
-  },
-  {
-   "key": "蜡笔",
-   "name": "蜡笔 • 4K",
-   "type": 3,
-   "api": "csp_PanWebShare",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "changeable": 1,
-   "ext": {
-    "site": [
-     "https://www.fmcf.fun",
-     "https://www.mmpanpan.site",
-     "http://tvpanpan.site",
-     "http://www.tvpanpan.site"
-    ]
-   },
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "搬运",
-   "name": "搬运 • 4K",
-   "type": 3,
-   "api": "csp_BanYunDao",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "指南",
-   "name": "指南 • 4K",
-   "type": 3,
-   "api": "csp_4KZhinan",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {
-    "site": [
-     "https://4kzn.cc"
-    ]
-   },
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "茉莉",
-   "name": "茉莉 • 4K",
-   "type": 3,
-   "api": "csp_HDmoli",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": {
-    "site": [
-     "https://www.hdmoli.com",
-     "https://www.hdmoli.pro"
-    ]
-   },
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "爱盼",
-   "name": "爱盼 • 4K",
-   "type": 3,
-   "api": "csp_AiPan",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "卡卡",
-   "name": "卡卡 • 4K",
-   "type": 3,
-   "api": "csp_KKPan",
-   "searchable": 1,
-   "quickSearch": 0,
-   "filterable": 0,
-   "style": {
-    "type": "list"
-   },
-   "timeout": 60,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "稀饭",
-   "name": "稀饭 • 动漫",
-   "type": 3,
-   "api": "csp_AnimeXifan",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "花子动漫",
-   "name": "花子 • 动漫",
-   "type": 3,
-   "api": "csp_AnimeHuazi",
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "电影港",
-   "name": "电影港 • 磁力",
-   "type": 3,
-   "api": "csp_DianYingG",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
    "key": "阿里云盘",
    "name": "阿里 • 云盘",
    "type": 3,
@@ -674,6 +523,53 @@
    },
    "_src": "cand",
    "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "zzz_probe",
+   "name": "ZZZ配置探针ZZZ",
+   "type": 1,
+   "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "categories": [
+    "国产动漫",
+    "日韩动漫",
+    "欧美动漫",
+    "港台动漫",
+    "动漫电影",
+    "动作片",
+    "喜剧片",
+    "爱情片",
+    "科幻片",
+    "恐怖片",
+    "剧情片",
+    "战争片",
+    "惊悚片",
+    "家庭片",
+    "古装片",
+    "历史片",
+    "悬疑片",
+    "犯罪片",
+    "灾难片",
+    "记录片",
+    "短片",
+    "国产剧",
+    "香港剧",
+    "韩国剧",
+    "欧美剧",
+    "台湾剧",
+    "日本剧",
+    "海外剧",
+    "泰国剧",
+    "大陆综艺",
+    "港台综艺",
+    "日韩综艺",
+    "欧美综艺",
+    "短剧",
+    "足球",
+    "AI漫剧"
+   ]
   }
  ],
  "lives": [

@@ -49,6 +49,108 @@
    ]
   },
   {
+   "key": "网盘",
+   "name": "🐧┃PG网盘┃配置",
+   "type": 3,
+   "api": "csp_Config",
+   "searchable": 0,
+   "changeable": 0,
+   "ext": "./lib/tokenm.json",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar",
+   "style": {
+    "type": "rect",
+    "ratio": 1.5
+   },
+   "_src": "cand"
+  },
+  {
+   "key": "立播",
+   "name": "🌟立播┃秒播",
+   "type": 3,
+   "api": "csp_LibvioGuard",
+   "timeout": 10,
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "ext": {
+    "Cloud-drive": "tvfan/Cloud-drive.txt",
+    "from": "4k|auto"
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+  },
+  {
+   "key": "厂长",
+   "name": "📔厂长┃秒播",
+   "type": 3,
+   "api": "csp_NewCzGuard",
+   "timeout": 10,
+   "playerType": 2,
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+  },
+  {
+   "key": "韩圈",
+   "name": "韩圈 • APP",
+   "type": 3,
+   "api": "csp_Hxq",
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "蓝鸟",
+   "name": "蓝鸟 • APP",
+   "type": 3,
+   "api": "csp_AppQi",
+   "searchable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt",
+    "dataKey": "oW5UxZ5kWVr1DI69",
+    "dataIv": "oW5UxZ5kWVr1DI69",
+    "init": "initV122",
+    "ua": "okhttp/3.10.0"
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "茉莉Get",
+   "name": "茉莉 • APP",
+   "type": 3,
+   "api": "csp_AppGet",
+   "searchable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+    "dataKey": "88689667dce61725",
+    "dataIv": "88689667dce61725"
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "闪电",
+   "name": "闪电 • 4K",
+   "type": 3,
+   "api": "csp_PanWebShare",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "changeable": 1,
+   "ext": {
+    "site": [
+     "http://shandian.blog"
+    ]
+   },
+   "timeout": 60,
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
    "key": "蜡笔",
    "name": "蜡笔 • 4K",
    "type": 3,

@@ -2140,6 +2140,362 @@
    "filterable": 1,
    "ext": "https://xunlei8.me",
    "_src": "fm3rd"
+  },
+  {
+   "key": "csp_LocalFile",
+   "name": "本机文件(接口完全免费)",
+   "type": 3,
+   "api": "csp_LocalFile",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "type_flag": 0,
+   "_src": "xyq"
+  },
+  {
+   "key": "drpy_js_奇珍异兽",
+   "name": "奇珍异兽[js]",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
+   "_src": "xyq"
+  },
+  {
+   "key": "drpy_js_优酷",
+   "name": "优酷[js]",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E4%BC%98%E9%85%B7.js",
+   "_src": "xyq"
+  },
+  {
+   "key": "drpy_js_腾云驾雾",
+   "name": "腾云驾雾[js]",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js",
+   "_src": "xyq"
+  },
+  {
+   "key": "drpy_js_百忙无果",
+   "name": "百忙无果[js]",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_New6v",
+   "name": "🧲新6V",
+   "type": 3,
+   "api": "csp_New6v",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://www.xb6v.com",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_DyGod",
+   "name": "🧲电影天堂",
+   "type": 3,
+   "api": "csp_DyGod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/custom_spider.jar",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_QnMp4",
+   "name": "🧲七妹",
+   "type": 3,
+   "api": "csp_QnMp4",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/custom_spider.jar",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_BLSGod",
+   "name": "🧲80S影视",
+   "type": 3,
+   "api": "csp_BLSGod",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/custom_spider.jar",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_Xunlei8",
+   "name": "🧲迅雷吧",
+   "type": 3,
+   "api": "csp_Xunlei8",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "xyq"
+  },
+  {
+   "key": "360_spider",
+   "name": "🐞360影视",
+   "type": 3,
+   "api": "csp_SP360",
+   "filterable": 1,
+   "quickSearch": 1,
+   "searchable": 1,
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_JianPian",
+   "name": "🔨荐片",
+   "type": 3,
+   "api": "csp_JianPian",
+   "playerType": 1,
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_Bili幼儿",
+   "name": "🐞哔哩幼儿",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_Bili少儿",
+   "name": "🐞哔哩少儿",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_Bili小学",
+   "name": "🐞哔哩小学",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_Bili初中",
+   "name": "🐞哔哩初中",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_Bili高中",
+   "name": "🐞哔哩高中",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "JS哔哩直播",
+   "name": "哔哩直播[js]",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_兔小贝",
+   "name": "🐰兔小贝(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_兔小贝2",
+   "name": "🐰兔小贝2(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 0,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_风铃动漫",
+   "name": "🛎风铃动漫(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E9%A3%8E%E9%93%83%E5%8A%A8%E6%BC%AB.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_樱花动漫",
+   "name": "🌸樱花动漫(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_去看吧动漫",
+   "name": "🔭去看吧动漫(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%8E%BB%E7%9C%8B%E5%90%A7%E5%8A%A8%E6%BC%AB.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_动漫巴士",
+   "name": "🚌动漫巴士(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_路漫漫",
+   "name": "路漫漫(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E8%B7%AF%E6%BC%AB%E6%BC%AB.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_age动漫",
+   "name": "AGE动漫(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/age%E5%8A%A8%E6%BC%AB.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_短剧五五",
+   "name": "🎬短剧五五",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E7%9F%AD%E5%89%A7%E4%BA%94%E4%BA%94.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_低端影视",
+   "name": "低端影视(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_看影网",
+   "name": "🔍看影网(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E7%9C%8B%E5%BD%B1%E7%BD%91.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "drpy_js_金牌",
+   "name": "金牌影视[js]",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js",
+   "_src": "xyq"
+  },
+  {
+   "key": "DRJS_虎牙",
+   "name": "虎牙直播(JS)",
+   "type": 3,
+   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
+   "searchable": 0,
+   "quickSearch": 0,
+   "filterable": 1,
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_虎牙直播",
+   "name": "🐯虎牙直播(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_XYQHiker_斗鱼直播",
+   "name": "🐠斗鱼直播(XYQH)",
+   "type": 3,
+   "api": "csp_XYQHiker",
+   "searchable": 1,
+   "quickSearch": 0,
+   "filterable": 1,
+   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.json",
+   "_src": "xyq"
+  },
+  {
+   "key": "csp_Djuu",
+   "name": "🎧DJ悠悠",
+   "type": 3,
+   "api": "csp_Djuu",
+   "filterable": 1,
+   "quickSearch": 1,
+   "searchable": 1,
+   "_src": "xyq"
   }
  ],
  "lives": [

@@ -50,7 +50,7 @@
   },
   {
    "key": "zzz_probe",
-   "name": "ZZZ配置探针ZZZ",
+   "name": "ZZZ探针3ZZZ",
    "type": 1,
    "api": "https://www.mdzyapi.com/api.php/provide/vod/",
    "searchable": 1,
@@ -94,35 +94,6 @@
     "足球",
     "AI漫剧"
    ]
-  },
-  {
-   "key": "堇夏听书",
-   "name": "堇夏 • 听书",
-   "type": 3,
-   "api": "csp_TingJinxia",
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 0,
-   "ext": "https://m.ting15.com",
-   "style": {
-    "type": "list"
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
-  },
-  {
-   "key": "博看听书",
-   "name": "博看 • 听书",
-   "type": 3,
-   "api": "csp_TingBokan",
-   "searchable": 1,
-   "quickSearch": 0,
-   "changeable": 0,
-   "style": {
-    "type": "list"
-   },
-   "_src": "cand",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
   },
   {
    "key": "戏曲多多",
@@ -176,6 +147,44 @@
    "searchable": 1,
    "quickSearch": 0,
    "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 1.618
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "哔哩哔哩音乐",
+   "name": "哔哩 • 音乐",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": {
+    "n": "哔哩音乐",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+   },
+   "style": {
+    "type": "rect",
+    "ratio": 1.618
+   },
+   "_src": "cand",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+  },
+  {
+   "key": "哔哩哔哩听书",
+   "name": "哔哩 • 听书",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": {
+    "n": "哔哩听书",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+   },
    "style": {
     "type": "rect",
     "ratio": 1.618

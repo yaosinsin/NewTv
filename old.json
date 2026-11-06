@@ -1,5 +1,5 @@
 {
- "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched.jar;md5;53e80730b31aa4e95fc28ddf233426a9",
+ "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/spider_patched2.jar;md5;00685f4cb85bf19a1baf230795fc4698",
  "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
  "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
@@ -2875,7 +2875,7 @@
    },
    "timeout": 60,
    "_src": "xiaosa",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "网盘",
@@ -2885,7 +2885,7 @@
    "searchable": 0,
    "changeable": 0,
    "ext": "./lib/tokenm.json",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar",
    "style": {
     "type": "rect",
     "ratio": 1.5
@@ -2911,7 +2911,7 @@
    "type": 3,
    "api": "csp_Hxq",
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "指南",
@@ -2928,7 +2928,7 @@
    },
    "timeout": 60,
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "爱盼",
@@ -2940,7 +2940,7 @@
    "filterable": 1,
    "timeout": 60,
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "吉里动漫",
@@ -2948,7 +2948,7 @@
    "type": 3,
    "api": "csp_AnimeGiri",
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "88看球",
@@ -2962,7 +2962,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "咖啡体育",
@@ -2976,7 +2976,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "球通体育",
@@ -2990,7 +2990,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "堇夏听书",
@@ -3005,7 +3005,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "博看听书",
@@ -3019,7 +3019,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "哔哩哔哩音乐",
@@ -3038,7 +3038,7 @@
     "ratio": 1.618
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   },
   {
    "key": "急救教学",
@@ -3054,7 +3054,7 @@
    },
    "gridview": "0-0-4.1",
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
   }
  ],
  "lives": [

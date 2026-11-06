@@ -3059,6 +3059,10 @@
  ],
  "lives": [
   {
+   "name": "央视卫视(国内CDN)",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/live_cctv.txt"
+  },
+  {
    "name": "央视卫视(咪咕)",
    "url": "http://47.120.41.246:8025/vip/jar/zb.php"
   },

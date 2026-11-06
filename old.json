@@ -3064,7 +3064,7 @@
   },
   {
    "name": "央视卫视(国内CDN)",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/live_cctv.txt"
+   "url": "http://www.sinsintv.com/CN/live_cctv.txt"
   },
   {
    "name": "整合直播(全量)",
@@ -3072,7 +3072,7 @@
   },
   {
    "name": "整合直播(移动优化)",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/live_verified.txt"
+   "url": "http://www.sinsintv.com/CN/live_verified.txt"
   }
  ],
  "parses": [

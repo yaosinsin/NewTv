@@ -3059,15 +3059,16 @@
  ],
  "lives": [
   {
-   "name": "整合直播",
-   "type": 0,
+   "name": "央视卫视(咪咕)",
+   "url": "http://47.120.41.246:8025/vip/jar/zb.php"
+  },
+  {
+   "name": "整合直播(全量)",
    "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/live.txt"
   },
   {
-   "name": "平台直播",
-   "type": 0,
-   "url": "http://47.120.41.246:8025/vip/jar/zb.php",
-   "playerType": 1
+   "name": "整合直播(移动优化)",
+   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/live_verified.txt"
   }
  ],
  "parses": [

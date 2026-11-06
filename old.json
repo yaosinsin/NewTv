@@ -2875,7 +2875,186 @@
    },
    "timeout": 60,
    "_src": "xiaosa",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider.jar"
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "网盘",
+   "name": "🐧┃PG网盘┃配置",
+   "type": 3,
+   "api": "csp_Config",
+   "searchable": 0,
+   "changeable": 0,
+   "ext": "./lib/tokenm.json",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar",
+   "style": {
+    "type": "rect",
+    "ratio": 1.5
+   },
+   "_src": "xiaosa_verified"
+  },
+  {
+   "key": "厂长",
+   "name": "📔厂长┃秒播",
+   "type": 3,
+   "api": "csp_NewCzGuard",
+   "timeout": 10,
+   "playerType": 2,
+   "searchable": 1,
+   "quickSearch": 1,
+   "changeable": 1,
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+  },
+  {
+   "key": "韩圈",
+   "name": "韩圈 • APP",
+   "type": 3,
+   "api": "csp_Hxq",
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "指南",
+   "name": "指南 • 4K",
+   "type": 3,
+   "api": "csp_4KZhinan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": {
+    "site": [
+     "https://4kzn.cc"
+    ]
+   },
+   "timeout": 60,
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "爱盼",
+   "name": "爱盼 • 4K",
+   "type": 3,
+   "api": "csp_AiPan",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "timeout": 60,
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "吉里动漫",
+   "name": "吉里 • 动漫",
+   "type": 3,
+   "api": "csp_AnimeGiri",
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "88看球",
+   "name": "88 • 看球",
+   "type": 3,
+   "api": "csp_Sports88",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   },
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "咖啡体育",
+   "name": "咖啡 • 体育",
+   "type": 3,
+   "api": "csp_SportsKafei",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   },
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "球通体育",
+   "name": "球通 • 体育",
+   "type": 3,
+   "api": "csp_SportQiutong",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   },
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "堇夏听书",
+   "name": "堇夏 • 听书",
+   "type": 3,
+   "api": "csp_TingJinxia",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": "https://m.ting15.com",
+   "style": {
+    "type": "list"
+   },
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "博看听书",
+   "name": "博看 • 听书",
+   "type": 3,
+   "api": "csp_TingBokan",
+   "searchable": 1,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "list"
+   },
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "哔哩哔哩音乐",
+   "name": "哔哩 • 音乐",
+   "type": 3,
+   "api": "csp_Bili",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "ext": {
+    "n": "哔哩音乐",
+    "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+   },
+   "style": {
+    "type": "rect",
+    "ratio": 1.618
+   },
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
+  },
+  {
+   "key": "急救教学",
+   "name": "急救 • 教学",
+   "type": 3,
+   "api": "csp_FirstAid",
+   "searchable": 0,
+   "quickSearch": 0,
+   "changeable": 0,
+   "style": {
+    "type": "rect",
+    "ratio": 3.8
+   },
+   "gridview": "0-0-4.1",
+   "_src": "xiaosa_verified",
+   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider2.jar"
   }
  ],
  "lives": [

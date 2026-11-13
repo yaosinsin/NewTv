@@ -3035,6 +3035,11 @@
    "name": "整合直播(移动优化)",
    "url": "http://www.sinsintv.com/CN/live_verified.txt",
    "type": 0
+  },
+  {
+   "name": "央视频(官方直播)",
+   "type": 0,
+   "url": "http://www.sinsintv.com/ysp_live.txt"
   }
  ],
  "parses": [

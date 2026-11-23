@@ -400,7 +400,7 @@
     },
     "url_key": "FeiMaoUC"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -409,7 +409,7 @@
    "type": 3,
    "api": "csp_AppRJ",
    "ext": "http://v.rbotv.cn",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -428,7 +428,7 @@
     "version": "1.0.0.3",
     "decrypt": "0"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -447,7 +447,7 @@
     "version": "6.0.0.1",
     "decrypt": "1"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -466,7 +466,7 @@
     "version": "3.0.0.7",
     "decrypt": "0"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -476,7 +476,7 @@
    "type": 3,
    "playerType": "2",
    "ext": "https://api.ztcgi.com",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -493,7 +493,7 @@
     "type": "rect",
     "ratio": 1.333
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -503,7 +503,7 @@
    "playerType": "2",
    "api": "csp_Dm84",
    "ext": "https://dm84.net",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -520,7 +520,7 @@
     "type": "rect",
     "ratio": 1.333
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -537,7 +537,7 @@
     "type": "rect",
     "ratio": 1.333
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -554,7 +554,7 @@
     "type": "rect",
     "ratio": 1.333
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -571,7 +571,7 @@
     "type": "rect",
     "ratio": 1.333
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -588,7 +588,7 @@
     "type": "rect",
     "ratio": 1.333
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_08.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_08.jar",
    "_src": "feimao"
   },
   {
@@ -598,7 +598,7 @@
    "changeable": "0",
    "api": "csp_Duopan",
    "filterable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_06.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_06.jar",
    "ext": {
     "site_urls": [
      "https://woog.nxog.eu.org"
@@ -618,7 +618,7 @@
    "changeable": "0",
    "api": "csp_Duopan",
    "filterable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_06.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_06.jar",
    "ext": {
     "site_urls": [
      "https://ogkk.nxog.eu.org"
@@ -645,7 +645,7 @@
      "https://ogkk.nxog.eu.org"
     ]
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_07.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_07.jar",
    "_src": "ouge"
   },
   {
@@ -662,7 +662,7 @@
      "https://woog.nxog.eu.org"
     ]
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_07.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_07.jar",
    "_src": "ouge"
   },
   {
@@ -673,7 +673,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -684,7 +684,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -695,7 +695,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -706,7 +706,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -717,7 +717,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -728,7 +728,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -739,7 +739,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -750,7 +750,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -761,7 +761,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -772,7 +772,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -783,7 +783,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -794,7 +794,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -805,7 +805,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -816,7 +816,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -827,7 +827,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -838,7 +838,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -849,7 +849,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -864,7 +864,7 @@
     "proxyImg": false
    },
    "timeout": 120,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -879,7 +879,7 @@
     "proxyImg": false
    },
    "timeout": 120,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -894,7 +894,7 @@
     "proxyImg": false
    },
    "timeout": 120,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -909,7 +909,7 @@
     "proxyImg": false
    },
    "timeout": 120,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -924,7 +924,7 @@
     "proxyImg": false
    },
    "timeout": 120,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -939,7 +939,7 @@
     "proxyImg": false
    },
    "timeout": 120,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -954,7 +954,7 @@
     "proxyImg": false
    },
    "timeout": 120,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -965,7 +965,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -976,7 +976,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -987,7 +987,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -998,7 +998,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1009,7 +1009,7 @@
    "api": "csp_ManJuAiHuoLongGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1020,7 +1020,7 @@
    "api": "csp_ManJuAiXiFanGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1030,7 +1030,7 @@
    "api": "csp_AnimeAiMoDuGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1040,7 +1040,7 @@
    "api": "csp_BookHongGuoGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1050,7 +1050,7 @@
    "api": "csp_BookAiShiJieGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1060,7 +1060,7 @@
    "api": "csp_BookAi23TingShuGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1070,7 +1070,7 @@
    "api": "csp_MusicAiKuWoaGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1080,7 +1080,7 @@
    "api": "csp_MusicAi163Guard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1090,7 +1090,7 @@
    "api": "csp_MusicAiKuWoGuard",
    "searchable": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1109,7 +1109,7 @@
    "ext": {
     "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1128,7 +1128,7 @@
    "ext": {
     "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaImage/183E562_773_xiqu_20251130182006749newMediaImage.txt"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1147,7 +1147,7 @@
    "ext": {
     "json": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_01.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_01.jar",
    "_src": "wangerxiao"
   },
   {
@@ -1159,7 +1159,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "changeable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_02.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_02.jar",
    "_src": "xiaohezi"
   },
   {
@@ -1170,7 +1170,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_02.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_02.jar",
    "_src": "xiaohezi"
   },
   {
@@ -1322,7 +1322,7 @@
    "type": 3,
    "api": "https://szyyds.cn/js/6F02.js",
    "ext": "https://szyyds.cn/js/3c16.js",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1331,7 +1331,7 @@
    "type": 3,
    "api": "https://szyyds.cn/js/6F02.js",
    "ext": "https://szyyds.cn/js/8aae.js",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1340,7 +1340,7 @@
    "type": 3,
    "api": "https://szyyds.cn/js/6F02.js",
    "ext": "https://szyyds.cn/js/7294.js",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1355,7 +1355,7 @@
    "ext": {
     "Cloud-drive": "tvfan/Cloud-drive.txt"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1371,7 +1371,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1383,7 +1383,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1396,7 +1396,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 0,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1408,7 +1408,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "changeable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1422,7 +1422,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "ext": "uqGL1bNENExT7/hGxpSE5qU=",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1435,7 +1435,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1501,7 +1501,7 @@
    "ext": {
     "json": "https://szyyds.cn/tv/jx/bilibiliheji.txt"
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/s15_09.jar",
+   "jar": "http://www.sinsintv.com/CN/s15_09.jar",
    "_src": "xiaoma"
   },
   {
@@ -1646,32 +1646,32 @@
    "key": "drpy_js_奇珍异兽",
    "name": "奇珍异兽[js]",
    "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E5%A5%87%E7%8F%8D%E5%BC%82%E5%85%BD.js",
+   "api": "http://www.sinsintv.com/CN/drpy2.min.js",
+   "ext": "http://www.sinsintv.com/CN/xyq/dr_py/js/奇珍异兽.js",
    "_src": "xyq"
   },
   {
    "key": "drpy_js_优酷",
    "name": "优酷[js]",
    "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E4%BC%98%E9%85%B7.js",
+   "api": "http://www.sinsintv.com/CN/drpy2.min.js",
+   "ext": "http://www.sinsintv.com/CN/xyq/dr_py/js/优酷.js",
    "_src": "xyq"
   },
   {
    "key": "drpy_js_腾云驾雾",
    "name": "腾云驾雾[js]",
    "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js",
+   "api": "http://www.sinsintv.com/CN/drpy2.min.js",
+   "ext": "http://www.sinsintv.com/CN/xyq/dr_py/js/腾云驾雾.js",
    "_src": "xyq"
   },
   {
    "key": "drpy_js_百忙无果",
    "name": "百忙无果[js]",
    "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js",
+   "api": "http://www.sinsintv.com/CN/drpy2.min.js",
+   "ext": "http://www.sinsintv.com/CN/xyq/dr_py/js/百忙无果.js",
    "_src": "xyq"
   },
   {
@@ -1693,7 +1693,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/custom_spider.jar",
+   "jar": "http://www.sinsintv.com/CN/custom_spider.jar",
    "_src": "xyq"
   },
   {
@@ -1704,7 +1704,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/custom_spider.jar",
+   "jar": "http://www.sinsintv.com/CN/custom_spider.jar",
    "_src": "xyq"
   },
   {
@@ -1715,7 +1715,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/custom_spider.jar",
+   "jar": "http://www.sinsintv.com/CN/custom_spider.jar",
    "_src": "xyq"
   },
   {
@@ -1757,7 +1757,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%B9%BC%E5%84%BF%E4%B9%90%E5%9B%AD.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/biliext/幼儿乐园.json",
    "_src": "xyq"
   },
   {
@@ -1768,7 +1768,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%B0%91%E5%84%BF%E6%95%99%E8%82%B2.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/biliext/少儿教育.json",
    "_src": "xyq"
   },
   {
@@ -1779,7 +1779,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%B0%8F%E5%AD%A6%E8%AF%BE%E5%A0%82.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/biliext/小学课堂.json",
    "_src": "xyq"
   },
   {
@@ -1790,7 +1790,7 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E5%88%9D%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/biliext/初中课堂.json",
    "_src": "xyq"
   },
   {
@@ -1801,18 +1801,18 @@
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/biliext/%E9%AB%98%E4%B8%AD%E8%AF%BE%E5%A0%82.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/biliext/高中课堂.json",
    "_src": "xyq"
   },
   {
    "key": "JS哔哩直播",
    "name": "哔哩直播[js]",
    "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
+   "api": "http://www.sinsintv.com/CN/drpy2.min.js",
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E5%93%94%E5%93%A9%E7%9B%B4%E6%92%AD.js",
+   "ext": "http://www.sinsintv.com/CN/xyq/dr_py/js/哔哩直播.js",
    "_src": "xyq"
   },
   {
@@ -1823,7 +1823,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/兔小贝.json",
    "_src": "xyq"
   },
   {
@@ -1834,7 +1834,7 @@
    "searchable": 0,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%85%94%E5%B0%8F%E8%B4%9D2.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/兔小贝2.json",
    "_src": "xyq"
   },
   {
@@ -1845,7 +1845,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E9%A3%8E%E9%93%83%E5%8A%A8%E6%BC%AB.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/风铃动漫.json",
    "_src": "xyq"
   },
   {
@@ -1856,7 +1856,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E6%A8%B1%E8%8A%B1%E5%8A%A8%E6%BC%AB.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/樱花动漫.json",
    "_src": "xyq"
   },
   {
@@ -1867,7 +1867,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%8E%BB%E7%9C%8B%E5%90%A7%E5%8A%A8%E6%BC%AB.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/去看吧动漫.json",
    "_src": "xyq"
   },
   {
@@ -1878,7 +1878,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/动漫巴士.json",
    "_src": "xyq"
   },
   {
@@ -1889,7 +1889,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E8%B7%AF%E6%BC%AB%E6%BC%AB.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/路漫漫.json",
    "_src": "xyq"
   },
   {
@@ -1900,7 +1900,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/age%E5%8A%A8%E6%BC%AB.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/age动漫.json",
    "_src": "xyq"
   },
   {
@@ -1911,7 +1911,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E7%9F%AD%E5%89%A7%E4%BA%94%E4%BA%94.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/短剧五五.json",
    "_src": "xyq"
   },
   {
@@ -1922,7 +1922,7 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E4%BD%8E%E7%AB%AF%E5%BD%B1%E8%A7%86.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/低端影视.json",
    "_src": "xyq"
   },
   {
@@ -1933,23 +1933,23 @@
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E7%9C%8B%E5%BD%B1%E7%BD%91.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/看影网.json",
    "_src": "xyq"
   },
   {
    "key": "drpy_js_金牌",
    "name": "金牌影视[js]",
    "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js",
+   "api": "http://www.sinsintv.com/CN/drpy2.min.js",
+   "ext": "http://www.sinsintv.com/CN/xyq/dr_py/js/金牌影视.js",
    "_src": "xyq"
   },
   {
    "key": "DRJS_虎牙",
    "name": "虎牙直播(JS)",
    "type": 3,
-   "api": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/libs/drpy2.min.js",
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/dr_py/js/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.js",
+   "api": "http://www.sinsintv.com/CN/drpy2.min.js",
+   "ext": "http://www.sinsintv.com/CN/xyq/dr_py/js/虎牙直播.js",
    "searchable": 0,
    "quickSearch": 0,
    "filterable": 1,
@@ -1963,7 +1963,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/虎牙直播.json",
    "_src": "xyq"
   },
   {
@@ -1974,7 +1974,7 @@
    "searchable": 1,
    "quickSearch": 0,
    "filterable": 1,
-   "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/xyq/XYQHiker/%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.json",
+   "ext": "http://www.sinsintv.com/CN/xyq/XYQHiker/斗鱼直播.json",
    "_src": "xyq"
   },
   {
@@ -2034,7 +2034,7 @@
    "filterable": 0,
    "ext": "https://vidhub1.cc",
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "暮暮动漫",
@@ -2046,7 +2046,7 @@
    "filterable": 0,
    "ext": "https://www.mutean.com",
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "New6v",
@@ -2058,7 +2058,7 @@
    "filterable": 1,
    "ext": "https://www.xb6v.com",
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "新6V",
@@ -2071,7 +2071,7 @@
    "changeable": 0,
    "ext": "https://www.xb6v.com/",
    "_src": "src15_xalan",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+   "jar": "http://www.sinsintv.com/CN/xalan_custom_spider.jpg"
   },
   {
    "key": "南瓜影视",
@@ -2082,7 +2082,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "可可影视",
@@ -2093,7 +2093,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "全网影视",
@@ -2104,7 +2104,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "最新影视",
@@ -2115,7 +2115,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "桃子影视",
@@ -2126,7 +2126,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "FreeOK",
@@ -2137,7 +2137,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "啾啾影视",
@@ -2147,7 +2147,7 @@
    "searchable": 1,
    "changeable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "星辰影视",
@@ -2157,7 +2157,7 @@
    "searchable": 1,
    "changeable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "农民影视",
@@ -2167,7 +2167,7 @@
    "searchable": 1,
    "changeable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "立播影视",
@@ -2177,7 +2177,7 @@
    "searchable": 1,
    "changeable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "纯享影视",
@@ -2187,7 +2187,7 @@
    "searchable": 1,
    "changeable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "两个磁力",
@@ -2197,7 +2197,7 @@
    "searchable": 1,
    "changeable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "在线之家",
@@ -2207,7 +2207,7 @@
    "searchable": 1,
    "changeable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "机器人弹幕",
@@ -2220,7 +2220,7 @@
    "ext": {
     "danmu": true
    },
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar",
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar",
    "_src": "src15_pizazz"
   },
   {
@@ -2232,7 +2232,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "Mp4电影",
@@ -2243,7 +2243,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "酷吧电影",
@@ -2254,7 +2254,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "美剧天堂",
@@ -2265,7 +2265,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "豆",
@@ -2277,7 +2277,7 @@
    "quickSearch": 0,
    "filterable": 0,
    "_src": "src15_xalan",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+   "jar": "http://www.sinsintv.com/CN/xalan_custom_spider.jpg"
   },
   {
    "key": "看看影视",
@@ -2288,7 +2288,7 @@
    "quickSearch": 1,
    "filterable": 0,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "大米星球",
@@ -2299,7 +2299,7 @@
    "quickSearch": 0,
    "filterable": 0,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "达达龟",
@@ -2310,7 +2310,7 @@
    "quickSearch": 1,
    "filterable": 1,
    "_src": "src15_pizazz",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/pizazz_spider.jar"
+   "jar": "http://www.sinsintv.com/CN/pizazz_spider.jar"
   },
   {
    "key": "小丑",
@@ -2327,7 +2327,7 @@
    },
    "timeout": 60,
    "_src": "xiaosa",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "网盘",
@@ -2337,7 +2337,7 @@
    "searchable": 0,
    "changeable": 0,
    "ext": "./lib/tokenm.json",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar",
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar",
    "style": {
     "type": "rect",
     "ratio": 1.5
@@ -2355,7 +2355,7 @@
    "quickSearch": 1,
    "changeable": 1,
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xalan_custom_spider.jpg"
+   "jar": "http://www.sinsintv.com/CN/xalan_custom_spider.jpg"
   },
   {
    "key": "韩圈",
@@ -2363,7 +2363,7 @@
    "type": 3,
    "api": "csp_Hxq",
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "指南",
@@ -2380,7 +2380,7 @@
    },
    "timeout": 60,
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "爱盼",
@@ -2392,7 +2392,7 @@
    "filterable": 1,
    "timeout": 60,
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "吉里动漫",
@@ -2400,7 +2400,7 @@
    "type": 3,
    "api": "csp_AnimeGiri",
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "88看球",
@@ -2414,7 +2414,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "咖啡体育",
@@ -2428,7 +2428,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "球通体育",
@@ -2442,7 +2442,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "堇夏听书",
@@ -2457,7 +2457,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "博看听书",
@@ -2471,7 +2471,7 @@
     "type": "list"
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "哔哩哔哩音乐",
@@ -2490,7 +2490,7 @@
     "ratio": 1.618
    },
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "急救教学",
@@ -2506,7 +2506,7 @@
    },
    "gridview": "0-0-4.1",
    "_src": "xiaosa_verified",
-   "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/jars/xiaosa_spider3.jar"
+   "jar": "http://www.sinsintv.com/CN/xiaosa_spider3.jar"
   },
   {
    "key": "cms_4ce81d1b",
@@ -2687,7 +2687,7 @@
   },
   {
    "name": "整合直播(全量)",
-   "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yaosinsin/NewTv/main/live.txt",
+   "url": "http://www.sinsintv.com/CN/live.txt",
    "type": 0
   },
   {
@@ -2699,6 +2699,11 @@
    "name": "央视频(官方直播)",
    "type": 0,
    "url": "http://www.sinsintv.com/ysp_live.txt"
+  },
+  {
+   "name": "星海直播",
+   "url": "http://www.sinsintv.com/CN/xhzb.txt",
+   "type": 0
   }
  ],
  "parses": [

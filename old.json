@@ -2681,28 +2681,13 @@
    "url": "http://www.sinsintv.com/migu_live.txt"
   },
   {
-   "name": "央视卫视(国内CDN)",
-   "url": "http://www.sinsintv.com/CN/live_cctv.txt",
-   "type": 0
-  },
-  {
-   "name": "整合直播(全量)",
-   "url": "http://www.sinsintv.com/CN/live.txt",
-   "type": 0
-  },
-  {
-   "name": "整合直播(移动优化)",
-   "url": "http://www.sinsintv.com/CN/live_verified.txt",
-   "type": 0
-  },
-  {
-   "name": "央视频(官方直播)",
-   "type": 0,
-   "url": "http://www.sinsintv.com/ysp_live.txt"
-  },
-  {
    "name": "星海直播",
    "url": "http://www.sinsintv.com/CN/xhzb.txt",
+   "type": 0
+  },
+  {
+   "name": "不完美源",
+   "url": "http://www.sinsintv.com/CN/bwm.php",
    "type": 0
   }
  ],
